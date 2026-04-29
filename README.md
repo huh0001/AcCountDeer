@@ -1,5 +1,5 @@
 # AcCountDeer
 
-DeerHab: Habitat Suitability Model (https://huh0001.shinyapps.io/DeerHab/)
+_DeerHab_: Habitat Suitability Model (https://huh0001.shinyapps.io/DeerHab/)
 
-AcCountDeer: Visualization (https://huh0001.shinyapps.io/AcCountDeer/)
+_AcCountDeer_: Visualization (https://huh0001.shinyapps.io/AcCountDeer/)
